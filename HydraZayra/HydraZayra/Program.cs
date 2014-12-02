@@ -1,9 +1,9 @@
 ﻿using System;
 using LeagueSharp;
 using LeagueSharp.Common;
-using HydraZayra;
+using HydraZyra;
 
-namespace HydraZayra
+namespace HydraZyra
 {
 	class Program
 	{
@@ -24,7 +24,7 @@ namespace HydraZayra
 			//AutoUpdater.InitializeUpdater();
 			Helper = new Helper();
 
-            Menu = new Menu("H Lucian", "Hydralucian_" + ObjectManager.Player.ChampionName, true);
+            Menu = new Menu("H Zyra", "HydraZyra_" + ObjectManager.Player.ChampionName, true);
 
 			var targetSelectorMenu = new Menu("Target Selector", "TargetSelector");
 			SimpleTs.AddToMenu(targetSelectorMenu);
@@ -38,7 +38,7 @@ namespace HydraZayra
 		
 			try
 			{
-                var handle = System.Activator.CreateInstance(null, "Hydralucian." + ObjectManager.Player.ChampionName);
+                var handle = System.Activator.CreateInstance(null, "HydraZyra." + ObjectManager.Player.ChampionName);
 				Champion = (Champion) handle.Unwrap();
 			}
 			catch (Exception)

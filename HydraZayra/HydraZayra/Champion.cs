@@ -4,9 +4,9 @@ using System.Linq;
 using LeagueSharp;
 using LeagueSharp.Common;
 using SharpDX;
-using HZaydra;
+using HZydra;
 
-namespace HydraZayra
+namespace HydraZyra
 {
 	class Champion
 	{

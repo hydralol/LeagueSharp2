@@ -1,4 +1,4 @@
-﻿namespace HZaydra
+﻿namespace HZydra
 {
 	public static class HtmlColor
 	{

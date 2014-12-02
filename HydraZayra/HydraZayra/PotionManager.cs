@@ -4,7 +4,7 @@ using System.Linq;
 using LeagueSharp;
 using LeagueSharp.Common;
 
-namespace HydraZayra
+namespace HydraZyra
 {
 	internal class PotionManager
 	{

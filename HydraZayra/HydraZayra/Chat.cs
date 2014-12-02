@@ -1,6 +1,6 @@
 ﻿using LeagueSharp;
 
-namespace HZaydra
+namespace HZydra
 {
 	public static class Chat
 	{

@@ -5,7 +5,7 @@ using LeagueSharp;
 using LeagueSharp.Common;
 using SharpDX;
 
-namespace HydraZayra
+namespace HydraZyra
 {
     class EnemyInfo
     {

@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace HZaydra.Properties {
+namespace HZydra.Properties {
     
     
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
