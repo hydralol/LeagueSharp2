@@ -1,0 +1,14 @@
+C:\Users\Death\Desktop\zi\trunk\trunk - Copy\LexxersAIOCarry\bin\Release\Hydralucian.exe.config
+C:\Users\Death\Desktop\zi\trunk\trunk - Copy\LexxersAIOCarry\bin\Release\Hydralucian.exe
+C:\Users\Death\Desktop\zi\trunk\trunk - Copy\LexxersAIOCarry\bin\Release\Hydralucian.pdb
+C:\Users\Death\Desktop\zi\trunk\trunk - Copy\LexxersAIOCarry\bin\Release\clipper_library.dll
+C:\Users\Death\Desktop\zi\trunk\trunk - Copy\LexxersAIOCarry\bin\Release\LeagueSharp.Common.dll
+C:\Users\Death\Desktop\zi\trunk\trunk - Copy\LexxersAIOCarry\bin\Release\LeagueSharp.dll
+C:\Users\Death\Desktop\zi\trunk\trunk - Copy\LexxersAIOCarry\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\Death\Desktop\zi\trunk\trunk - Copy\LexxersAIOCarry\bin\Release\SharpDX.dll
+C:\Users\Death\Desktop\zi\trunk\trunk - Copy\LexxersAIOCarry\bin\Release\SharpDX.Toolkit.dll
+C:\Users\Death\Desktop\zi\trunk\trunk - Copy\LexxersAIOCarry\bin\Release\LeagueSharp.xml
+C:\Users\Death\Desktop\zi\trunk\trunk - Copy\LexxersAIOCarry\bin\Release\SharpDX.Toolkit.xml
+C:\Users\Death\Desktop\zi\trunk\trunk - Copy\LexxersAIOCarry\obj\Debug\Hydralucian.csprojResolveAssemblyReference.cache
+C:\Users\Death\Desktop\zi\trunk\trunk - Copy\LexxersAIOCarry\obj\Debug\Hydralucian.exe
+C:\Users\Death\Desktop\zi\trunk\trunk - Copy\LexxersAIOCarry\obj\Debug\Hydralucian.pdb
