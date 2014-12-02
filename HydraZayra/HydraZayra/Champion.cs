@@ -14,13 +14,13 @@ namespace HydraZayra
 
         public Champion()
         {
-            Chat.Print("H lucian Loading ...");
+            Chat.Print("H Zayra Loading ...");
             MenuBasics();
         }
 
         public void PluginLoaded()
         {
-            Chat.Print("H lucian Loaded !");
+            Chat.Print("H Zayra Loaded !");
         }
 
 		public bool Packets()
