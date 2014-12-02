@@ -188,6 +188,9 @@ namespace HydraZyra
 			if (!target.IsValidTarget(R.Range)) 
 				return;
 			R.CastIfWillHit(target, minHit - 1, Packets());
+            var pos = R.GetPrediction(target).CastPosition;
+            Utility.DelayAction.Add(50, () => R.Cast(new Vector3(pos.X - 2, pos.Y - 2, pos.Z), Packets()));
+            Utility.DelayAction.Add(150, () => R.Cast(new Vector3(pos.X + 2, pos.Y + 2, pos.Z), Packets()));
 		}
 
 		private void CastQEnemy()
