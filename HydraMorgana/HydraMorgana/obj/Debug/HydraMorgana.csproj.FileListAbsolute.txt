@@ -1,0 +1,13 @@
+C:\Users\Death\Documents\GitHub\LeagueSharp2\HydraTristana - Copy\HydraTristana\bin\Release\HydraMorgana.exe.config
+C:\Users\Death\Documents\GitHub\LeagueSharp2\HydraTristana - Copy\HydraTristana\bin\Release\HydraMorgana.exe
+C:\Users\Death\Documents\GitHub\LeagueSharp2\HydraTristana - Copy\HydraTristana\bin\Release\HydraMorgana.pdb
+C:\Users\Death\Documents\GitHub\LeagueSharp2\HydraTristana - Copy\HydraTristana\bin\Release\clipper_library.dll
+C:\Users\Death\Documents\GitHub\LeagueSharp2\HydraTristana - Copy\HydraTristana\bin\Release\LeagueSharp.Common.dll
+C:\Users\Death\Documents\GitHub\LeagueSharp2\HydraTristana - Copy\HydraTristana\bin\Release\LeagueSharp.dll
+C:\Users\Death\Documents\GitHub\LeagueSharp2\HydraTristana - Copy\HydraTristana\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\Death\Documents\GitHub\LeagueSharp2\HydraTristana - Copy\HydraTristana\bin\Release\SharpDX.dll
+C:\Users\Death\Documents\GitHub\LeagueSharp2\HydraTristana - Copy\HydraTristana\bin\Release\SharpDX.Toolkit.dll
+C:\Users\Death\Documents\GitHub\LeagueSharp2\HydraTristana - Copy\HydraTristana\bin\Release\LeagueSharp.xml
+C:\Users\Death\Documents\GitHub\LeagueSharp2\HydraTristana - Copy\HydraTristana\bin\Release\SharpDX.Toolkit.xml
+C:\Users\Death\Documents\GitHub\LeagueSharp2\HydraTristana - Copy\HydraTristana\obj\Debug\HydraMorgana.exe
+C:\Users\Death\Documents\GitHub\LeagueSharp2\HydraTristana - Copy\HydraTristana\obj\Debug\HydraMorgana.pdb
