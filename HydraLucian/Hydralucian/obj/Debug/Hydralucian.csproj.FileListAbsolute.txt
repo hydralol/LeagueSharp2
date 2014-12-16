@@ -12,3 +12,6 @@ C:\Users\Death\Desktop\zi\trunk\trunk - Copy\LexxersAIOCarry\bin\Release\SharpDX
 C:\Users\Death\Desktop\zi\trunk\trunk - Copy\LexxersAIOCarry\obj\Debug\Hydralucian.csprojResolveAssemblyReference.cache
 C:\Users\Death\Desktop\zi\trunk\trunk - Copy\LexxersAIOCarry\obj\Debug\Hydralucian.exe
 C:\Users\Death\Desktop\zi\trunk\trunk - Copy\LexxersAIOCarry\obj\Debug\Hydralucian.pdb
+C:\Users\Death\Documents\GitHub\LeagueSharp2\HydraLucian\Hydralucian\bin\Release\Hydralucian.exe.config
+C:\Users\Death\Documents\GitHub\LeagueSharp2\HydraLucian\Hydralucian\obj\Debug\Hydralucian.exe
+C:\Users\Death\Documents\GitHub\LeagueSharp2\HydraLucian\Hydralucian\obj\Debug\Hydralucian.pdb
